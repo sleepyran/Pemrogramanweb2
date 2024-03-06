@@ -96,7 +96,7 @@ h2 {
     <div class="container">
         <h2 class="my-4">Belanja Online</h2>
         <hr>
-        <form method="POST" action="jumlah_belanja.php">
+        <form method="POST" action="jumlah.php">
             <div class="form-group">
                 <label for="customer">Customer</label>
                 <input id="customer" name="customer" placeholder="Masukan nama anda" type="text" class="form-control">
